@@ -9,6 +9,10 @@ Start by getting at least one pacman positioned and viewable.
 
 <img src="PacMan1.png">
 
-Updated code so that the PacMen would reverse directions when the hit the left and right walls and would chomp as they do in the game.
+How to run: 
+
+Most recently Updated code so that the PacMen would reverse directions when the hit the left and right walls and would chomp as they do in the game.
 
 Future possibilites would include virtical or diagonal facing Pacman pictures for a better representation of the game.
+
+MIT License 
