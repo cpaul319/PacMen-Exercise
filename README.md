@@ -13,6 +13,10 @@ How to run:
 
 Most recently Updated code so that the PacMen would reverse directions when the hit the left and right walls and would chomp as they do in the game.
 
-Future possibilites would include virtical or diagonal facing Pacman pictures for a better representation of the game.
+Road Map:
+Correct Pacmen generating over the Start Game button
+Include virtical or diagonal facing Pacman for true directional represnetation
+
+
 
 MIT License 
